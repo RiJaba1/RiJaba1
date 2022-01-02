@@ -26,7 +26,9 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Herramienta portDiscoverSH](https://rijaba1.github.io/herramienta-portDiscoverSH/)
+- [Herramienta whichSystem.sh](https://rijaba1.github.io/herramienta-whichsystem.sh/)
+- [Canal encubierto WhatsApp](https://rijaba1.github.io/canal-encubierto-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
