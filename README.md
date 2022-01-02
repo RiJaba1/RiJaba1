@@ -29,8 +29,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HackMyVm Brain Writeup](https://rijaba1.github.io/brain-hackmyvm-writeup/)
 - [Herramienta portDiscoverSH](https://rijaba1.github.io/herramienta-portDiscoverSH/)
-- [Herramienta whichSystem.sh](https://rijaba1.github.io/herramienta-whichsystem.sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
