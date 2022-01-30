@@ -29,8 +29,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PwnKit - CVE-2021-4034](https://rijaba1.github.io/pwnkit-CVE-2021-4034/)
 - [HackMyVm Brain Writeup](https://rijaba1.github.io/brain-hackmyvm-writeup/)
-- [Herramienta portDiscoverSH](https://rijaba1.github.io/herramienta-portDiscoverSH/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
