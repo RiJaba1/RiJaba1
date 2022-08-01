@@ -29,8 +29,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bandit 0](https://rijaba1.github.io/bandit-1/)
 - [Mi experiencia con el eJPT + TIPS](https://rijaba1.github.io/experiencia-ejpt/)
-- [PwnKit - CVE-2021-4034](https://rijaba1.github.io/pwnkit-CVE-2021-4034/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
