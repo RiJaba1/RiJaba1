@@ -29,8 +29,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bandit 0](https://rijaba1.github.io/bandit-1/)
-- [Mi experiencia con el eJPT + TIPS](https://rijaba1.github.io/experiencia-ejpt/)
+- [Bandit 1](https://rijaba1.github.io/bandit-1/)
+- [Bandit 0](https://rijaba1.github.io/bandit-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
