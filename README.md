@@ -29,8 +29,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bandit 4](https://rijaba1.github.io/bandit-4/)
 - [Bandit 3](https://rijaba1.github.io/bandit-3/)
-- [Bandit 2](https://rijaba1.github.io/bandit-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
