@@ -30,7 +30,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bandit 4](https://rijaba1.github.io/bandit-4/)
-- [Bandit 3](https://rijaba1.github.io/bandit-3/)
+- [WriteUp de Bandit](https://rijaba1.github.io/explicacion-bandit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
