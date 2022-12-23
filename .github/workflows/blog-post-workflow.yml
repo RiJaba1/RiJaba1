@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rijaba1.github.io/feed.xml"
+          feed_list: "https://rijaba1.github.io/index.xml"
           max_post_count: "2"
