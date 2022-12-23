@@ -29,8 +29,7 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bandit 7](https://rijaba1.github.io/bandit-7/)
-- [Bandit 6](https://rijaba1.github.io/bandit-6/)
+- [Experiencia eJPTv1](https://rijaba1.github.io/posts/experiencia-ejpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
