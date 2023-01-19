@@ -7,7 +7,7 @@
 [![Web](https://img.shields.io/website?label=rijaba1.github.io&style=for-the-badge&url=https://rijaba1.github.io)](https://rijaba1.github.io)
 
 ## I'm a Red Team Pentester
-- 🎓 eJPT
+- 🎓 eJPT, eCPPTv2
 - 🐱‍💻 Cybersecurity Junior
 - 🎮 HTB & HMVM player
 - 💻 Python and Bash Programmer
