@@ -29,8 +29,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WriteUp Monitoring](https://rijaba1.github.io/writeups-vulnhub/writeup_monitoring/)
 - [Experiencia eJPTv1](https://rijaba1.github.io/experiencias/experiencia-ejpt/)
-- [WriteUp Arroutada - Máquina Personal](https://rijaba1.github.io/writeups-hackmyvm/writeup_arroutada/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rijaba1.github.io)
