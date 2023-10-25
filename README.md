@@ -4,15 +4,14 @@
 
 # Me llamo RiJaba1 👋 
 
-[![Web](https://img.shields.io/website?label=rijaba1.github.io&style=for-the-badge&url=https://rijaba1.github.io)](https://rijaba1.github.io)
-
-
 - 🎓 eJPT, eCPPTv2
 - 🎮 CTF player
 - 📺 Content Creator
 
-<br />
 
+YouTube: https://youtube.com/@RiJaba1
+
+<br />
 
 ### GitHub Stats
 
