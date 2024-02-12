@@ -2,7 +2,7 @@
 
 <br />
 
-# Me llamo RiJaba1 👋 
+# RiJaba1 👋 
 
 - 🎓 eJPT, eCPPTv2
 - 🎮 CTF player
