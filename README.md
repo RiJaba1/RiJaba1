@@ -5,11 +5,8 @@
 # RiJaba1 👋 
 
 - 🎓 eJPT, eCPPTv2
-- 🎮 CTF player
-- 📺 Content Creator
+- 📺 Informático especializado en la ciberseguridad (término amplio, lo sé)
 
-
-YouTube: https://youtube.com/@RiJaba1
 
 <br />
 
@@ -19,4 +16,4 @@ YouTube: https://youtube.com/@RiJaba1
 
 ---
 
-[website]: https://rijaba1.github.io
+[website]: https://rijaba1.github.io/redes
