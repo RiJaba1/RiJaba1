@@ -10,10 +10,6 @@
 
 <br />
 
-### GitHub Stats
-
-<img align="left" alt="RiJaba1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rijaba1&show_icons=true" />
-
 ---
 
 [website]: https://rijaba1.github.io/redes
